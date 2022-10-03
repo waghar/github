@@ -73,7 +73,7 @@ const ll mod = 1e9+7;
 
 
 void solve(){
-asd
+
    std::ifstream myfile; myfile.open("btpp.txt",ios::out);
     std::string mystring;
     vector<string>v;
