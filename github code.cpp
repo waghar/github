@@ -1,7 +1,7 @@
 #include "bits/stdc++.h"
 #include <ext/pb_ds/assoc_container.hpp>
 #include<ext/pb_ds/tree_policy.hpp>
-using namespace std;a
+using namespace std;
 #include<fstream>
 using namespace __gnu_pbds;
 typedef long long ll;
